@@ -115,8 +115,8 @@ async def help(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.command(["about"]) & filters.private, group=1)
 async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[
-          Import.Button("👨‍💻𝖣𝖾𝗉𝗅𝗈𝗒", url='https://www.youtube.com/watch?v=NrbMc93aCzA'),
-          Import.Button("𝖲𝗈𝗎𝗋𝖼𝖾📦", callback_data="source")
+          Import.Button("👨‍💻𝖣𝖾𝗉𝗅𝗈𝗒", url='https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw'),
+          Import.Button("𝖲𝗈𝗎𝗋𝖼𝖾📦", callback_data="https://t.me/ef_new_realese")
           ],[
           Import.Button("⚠️𝖧𝖾𝗅𝗉", callback_data="help"),
           Import.Button("🏠𝖧𝗈𝗆𝖾", callback_data="home"),
@@ -135,14 +135,14 @@ async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.command(["sub", "subscribe"]) & filters.private, group=1)
 async def sub(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[     
-          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖲𝗎𝗉𝗉𝗈𝗋𝗍🤝", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw"),
+          Import.Button("𝖲𝗎𝗉𝗉𝗈𝗋𝗍🤝", url="https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw")
           ],[
-          Import.Button("📢𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖸𝗈𝗎𝖳𝗎𝖻𝖾💞", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("📢𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://t.me/dvdnewupdates"),
+          Import.Button("𝖸𝗈𝗎𝖳𝗎𝖻𝖾💞", url="https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw")
           ],[
-          Import.Button("📦𝖦𝗂𝗍𝗁𝗎𝖻", url="http://github.com/PR0FESS0R_99"),
-          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/mrk_yt_")
+          Import.Butthttps://t.me/dvdnewupdateshttps://t.me/EF_Linkz"),
+          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/yaduvind.k/")
           ],[
           Import.Button("𝖢𝗅𝗈𝗌𝖾🗑️", callback_data="close")
           ]]                     
