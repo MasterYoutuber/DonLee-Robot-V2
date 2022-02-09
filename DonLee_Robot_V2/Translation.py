@@ -43,7 +43,7 @@ class Text(object):
 
 📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/efcinema">Our 𝖦𝗋𝗈𝗎𝗉</a>
 🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/EF_Linkz">Our 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
-➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     FORCE_SUB_TEXT = """
 ഹേയ് {} തായേ കാണുന്ന ചാനലിൽ നിങ്ങൾ ഇല്ല അത് കൊണ്ട് നിങ്ങൾക് സിനിമ കിട്ടില്ല...
@@ -70,12 +70,12 @@ class Text(object):
 
 <𝖻><𝗎>𝖠𝖽𝖽 𝖢𝖬𝖣</𝖻></𝗎>
 • <code>/addchannel </code><b>𝖼𝗁𝖺𝗍_𝗂𝖽</b>
-• <code>/addchannel </code><b>@𝖬𝗈_𝖳𝖾𝖼𝗁_𝖸𝖳\𝗇</b>
+• <code>/addchannel </code><b>@efcinema\𝗇</b>
 - 𝖳𝗈 𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝖠 𝖦𝗋𝗈𝗎𝗉 𝖶𝗂𝗍𝗁 𝖠 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 (𝖡𝗈𝗍 𝖲𝗁𝗈𝗎𝗅𝖽 𝖡𝖾 𝖠𝖽𝗆𝗂𝗇 𝖶𝗂𝗍𝗁 𝖥𝗎𝗅𝗅 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾𝗌 𝖨𝗇 𝖡𝗈𝗍𝗁 𝖦𝗋𝗈𝗎𝗉 𝖠𝗇𝖽 𝖢𝗁𝖺𝗇𝗇𝖾𝗅)
 
 <𝖻><𝗎>𝖣𝖾𝗅𝖾𝗍𝖾𝖽 𝖢𝖬𝖣</𝖻></𝗎>
 • <code>/delchannel </code><b>𝖼𝗁𝖺𝗍_𝗂𝖽</b>
-• <code>/delchannel </code><b>@𝖬𝗈_𝖳𝖾𝖼𝗁_𝖸𝖳</b>
+• <code>/delchannel </code><b>@efcinema</b>
 - 𝖳𝗈 𝖽𝗂𝗌𝖼𝗈𝗇𝗇𝖾𝖼𝗍 𝖠 𝖦𝗋𝗈𝗎𝗉 𝖶𝗂𝗍𝗁 𝖠 𝖢𝗁𝖺𝗇𝗇𝖾𝗅
 """
     AUTO_FILTER_2_TEXH = """
@@ -237,13 +237,13 @@ class Text(object):
 𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
 𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
 
-📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
-➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/efcinema">Our 𝖦𝗋𝗈𝗎𝗉</a>
+🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/EF_Linkz">Our 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
+➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     CREDITS_TEXT = """
-• 𝖣𝖤𝖵 : <a href="t.me/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
-• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
+• 𝖣𝖤𝖵 : <a href="t.me/yaduvind">Lucky</a>
+• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="t.me/yaduvind">Lucky</a>
 
 𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽, 𝗁𝗈𝗐 𝗆𝖺𝗇𝗒 𝖼𝗈𝖽𝖾𝗌 𝗁𝖺𝗏𝖾 𝖨 𝗎𝗌𝖾𝖽? 𝖳𝗁𝖾𝗂𝗋 𝗇𝖺𝗆𝖾𝗌 𝖺𝗋𝖾 𝖻𝖾𝗅𝗅𝗈𝗐 [𝖢𝗋𝖾𝖽𝗂𝗍]
 
